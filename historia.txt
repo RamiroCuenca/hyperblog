@@ -1,4 +1,4 @@
-Hola mi nombre es Ramiro Cuenca Salinas, tengo 20 AÑOS.
+Hola mi nombre es Ramiro Cuenca Salinas, tengo 20 AÑOS y unos meeses.
 
 Soy de Córdoba Argentina y estoy aprendiendo a usar GIT.
 
