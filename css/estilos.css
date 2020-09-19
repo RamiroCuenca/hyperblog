@@ -2,5 +2,19 @@ body
 {
     text-align: center;
     font-family: 'Times New Roman', Times, serif;
-    color: deeppink;
+    color: white;
+    background-color: #333;
+}
+.containter
+{
+    width: 50vw;
+    margin: 3rem auto;
+    padding: 2rem;
+    border: 3px solid #111;
+    text-align: left;
+}
+h1 
+{
+    font-size: 3rem;
+    color: yellow;
 }
