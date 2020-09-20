@@ -19,6 +19,20 @@ p
     background-color: #000;
     box-shadow: 3px 3px 5px #aaa;
 }
+.header
+{
+    padding: 1rem;
+    background-color: rgb(54, 54, 116);
+    margin: -.1rem;
+    font-weight: bold;
+    font-size: 1.5rem;
+}
+span
+{
+    font-weight: normal;
+    margin-left: 2rem;
+    font-size: 1rem;
+}
 h1 
 {
     font-size: 3rem;
